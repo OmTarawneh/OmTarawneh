@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **OmTarawneh/OmTarawneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm [Omar](https://www.linkedin.com/in/omar-tarawneh-57aa03128/) 👋
+
+**Senior Software Engineer · BSc Chemistry · Learning AI**
+
+I'm documenting a 12-month journey to become competent at the intersection of **chemistry**, **AI**, and **software engineering**.
+
+Background: 5 years SWE + a chemistry degree. Now applying both to molecular ML.
+
+
+## 📦 Projects
+
+### Week 1 — [chem-rdkit-tutorial](https://github.com/OmTarawneh/chem-rdkit-tutorial)
+Learning cheminformatics with RDKit through Jupyter notebooks.
+Converting molecules (SMILES → molecular graphs), atom feature vectors, and adjacency matrices.
+
+---
+
+## 🛠️ Stack
+
+**Languages & Runtimes**  
+`Python` · `JavaScript` · `TypeScript` · `Node.js` · `Deno`
+
+**Frontend**  
+`React` · `Next.js`
+
+**Machine Learning & Scientific Computing**  (currently learning)
+`PyTorch` · `PyTorch Geometric` · `Hugging Face` · `RDKit` · `Numpy`
+
+**Data Engineering**  
+`Apache Beam`
+
+**Cloud & DevOps**  
+`GCP` · `Docker` · `Kubernetes` · `Argo CD` · `Jenkins`
+
+---
+
+## 📬 Find me
+- Twitter/X: [@OmarTarawneh12](https://x.com/OmarTarawneh12)
+- LinkedIn: [Omar Tarawneh](https://www.linkedin.com/in/omar-tarawneh-57aa03128/)
