@@ -24,7 +24,7 @@ Background: 5 years SWE + a chemistry degree. Now applying both to molecular ML.
 
 ## 📦 Projects
 
-### Week 1 — [chem-rdkit-tutorial](https://github.com/OmTarawneh/chem-rdkit-tutorial)
+### [chem-rdkit-tutorial](https://github.com/OmTarawneh/chem-rdkit-tutorial)
 Learning cheminformatics with RDKit through Jupyter notebooks.
 Converting molecules (SMILES → molecular graphs), atom feature vectors, and adjacency matrices.
 
