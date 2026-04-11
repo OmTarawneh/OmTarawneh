@@ -28,6 +28,9 @@ Background: 5 years SWE + a chemistry degree. Now applying both to molecular ML.
 Learning cheminformatics with RDKit through Jupyter notebooks.
 Converting molecules (SMILES → molecular graphs), atom feature vectors, and adjacency matrices.
 
+### [math-notebooks](https://github.com/OmTarawneh/math-notebooks)
+Learning Math code implementation needed for AI through notebooks
+
 ---
 
 ## 🛠️ Stack
