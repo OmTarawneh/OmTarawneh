@@ -31,6 +31,9 @@ Converting molecules (SMILES → molecular graphs), atom feature vectors, and ad
 ### [math-notebooks](https://github.com/OmTarawneh/math-notebooks)
 Learning Math code implementation needed for AI through notebooks
 
+### [awesome-ai](https://github.com/OmTarawneh/awesome-ai)
+A curated, high-signal collection of AI learning resources — courses, books, papers, libraries, and tools across math foundations, classical ML, deep learning, transformers, LLM engineering, RL, GNNs, and MLOps.
+
 ---
 
 ## 🛠️ Stack
